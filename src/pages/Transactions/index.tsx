@@ -1,5 +1,5 @@
 import { Header } from "../../components/Header";
-import { Summary } from "../../components/summary";
+import { Summary } from "../../components/Summary";
 
 import {
   PriceHighlight,
