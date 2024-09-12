@@ -4,6 +4,8 @@ React-based application designed to manage personal finances, built with TS/Reac
 
 It allows users to track their income and expenses with ease.
 
+![Money App Screen](money-initial-screen.png)
+
 ## Features
 
 - Add income and expense entries
